@@ -21,6 +21,13 @@ h1 {
     padding: 25px;
 }
 
+#penny-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4px;
+}
+
 /* Controls and Message Styles */
 .controls {
     padding: 20px;
